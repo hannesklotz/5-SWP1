@@ -1,4 +1,4 @@
-package smarthome;
+package observer.smarthome;
 
 public class AirConditioner implements TemperatureObserver {
 

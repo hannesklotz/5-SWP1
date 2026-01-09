@@ -1,4 +1,4 @@
-package youtubeabo;
+package observer.youtubeabo;
 
 public class YouTubeTest {
 

@@ -1,4 +1,4 @@
-package smarthome;
+package observer.smarthome;
 
 import java.util.ArrayList;
 import java.util.List;

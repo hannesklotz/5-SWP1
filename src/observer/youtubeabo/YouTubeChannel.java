@@ -1,4 +1,4 @@
-package youtubeabo;
+package observer.youtubeabo;
 
 import java.util.ArrayList;
 import java.util.List;
